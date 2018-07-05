@@ -1,0 +1,15 @@
+{
+	"extends": "airbnb",
+	"plugins": [
+
+			"react",
+			"jsx-ally",
+			"import"
+	],
+	"rule":{
+			"react/jsx-filename-extension": [1, {"extensions": [".js", ".jsx"]}]
+
+	}
+
+
+}
