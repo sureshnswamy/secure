@@ -3,7 +3,7 @@
 
 ## Securing React App with Auth0
 
-#server <br>
+# server 
 
 This demo use simple `express` routing enabled with `cors` a middleware for the server/api. Express-jwt middleware to authenticate HTTP requests using JWT tokens.  
 
@@ -11,14 +11,14 @@ Also `jwks-rsa`, a library to retrieve RSA (Rivest–Shamir–Adleman) is one of
 
 to start the server 
 
-##`npm start`
+`npm start`
 ther server set to run in port 4000 [http://localhost:4000](http://localhost:4000).
 
-##client
+# client
 
 In client directory, you can run:
 
-## `npm start`
+`npm start`
 
 Runs the React app <br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -86,5 +86,5 @@ For both client and server
 
 
 
-Note that **the project use ES6 syntax**:
+Note that this project use **ES6 syntax**
 
