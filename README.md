@@ -1,9 +1,11 @@
 
 
 
-## Securing React App with Auth0
+# Securing React App with Auth0
 
-# server 
+Reinforce your React applications and authentication methods to defend against common threats.Improve the security of your authentication methods using Auth0, and  protect APIs.
+ 
+## server 
 
 This demo use simple `express` routing enabled with `cors` a middleware for the server/api. Express-jwt middleware to authenticate HTTP requests using JWT tokens.  
 
@@ -14,7 +16,7 @@ to start the server
 `npm start`
 ther server set to run in port 4000 [http://localhost:4000](http://localhost:4000).
 
-# client
+## client
 
 In client directory, you can run:
 
